@@ -27,6 +27,31 @@ groups:
     - essentials.time
     - essentials.getpos
     - essentials.ping
+    - mytown.cmd
+    - mytown.cmd.outsider.new
+    - mytown.cmd.outsider.prices
+    - mytown.cmd.everyone.bank
+    - mytown.cmd.everyone.bank.deposit
+    - mytown.cmd.assistant.bank.withdraw
+    - mytown.cmd.outsider.list
+    - mytown.cmd.outsider.info
+    - mytown.cmd.everyone.leave
+    - mytown.cmd.mayor.leave.delete
+    - mytown.cmd.everyone.borders
+    - mytown.cmd.everyone.bank.info
+    - mytown.cmd.everyone.select
+    - mytown.cmd.assistant.invite
+    - mytown.cmd.assistant.promote
+    - mytown.cmd.assistant.claim
+    - mytown.cmd.assistant.unclaim
+    - mytown.cmd.assistant.rename
+    - mytown.cmd.assistant.kick
+    - mytown.cmd.everyone.ranks
+    - mytown.cmd.outsider.refuse
+    - mytown.cmd.outsider.invites
+    - mytown.cmd.outsider.map
+    - mytown.cmd.outsider.res
+    - mytown.cmd.outsider.accept
   Supporter:
     options:
       prefix: '&5'
