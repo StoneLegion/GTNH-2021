@@ -5,7 +5,7 @@
 ConfigVersion: 1.23.0-SNAPSHOT
 
 # Bot token; don't know what this is? Look at the video on the plugin page for instructions
-BotToken: "BOTTOKEN"
+BotToken: "CHANGEME TO BOTTOKEN SL2021 SECURITY"
 
 # Channel links from game to Discord
 # syntax is Channels: {"in-game channel name from Minecraft": "numerical channel ID from Discord", "another in-game channel name from Minecraft": "another numerical channel ID from Discord"}
@@ -24,13 +24,13 @@ BotToken: "BOTTOKEN"
 # for /discord broadcast: broadcasts (unless specified in the command)
 #
 # The first part of channel pairs is not the Discord channel name!
-Channels: {"global": "000000000000000000"}
+Channels: {"global": "844984377553453081"}
 
 # Console channel numerical ID (NOT NAME), leave blank to disable the console channel all together
-DiscordConsoleChannelId: "000000000000000000"
+DiscordConsoleChannelId: ""
 
 # Invitation link shown to players when using /discord and on the message shown to unlinked players when linking is enforced
-DiscordInviteLink: "https://discord.gg/changethisintheconfig.yml"
+DiscordInviteLink: "https://discord.gg/kBTabCX"
 
 # Debug options, don't touch unless needed
 #
@@ -83,7 +83,7 @@ UseModernPaperChatEvent: false
 #
 # DiscordGameStatus: Text to display. Can be a single value e.g. "Minecraft", or multiple values e.g. ["Minecraft", "yourip.changeme.com"]
 # StatusUpdateRateInMinutes: How frequently to cycle the status
-DiscordGameStatus: "Minecraft"
+DiscordGameStatus: ["GregTech New Horizons", "Server IP: mc.stonelegion.com"]
 StatusUpdateRateInMinutes: 2
 
 # Chat channel information
@@ -210,7 +210,7 @@ ChannelTopicUpdaterRateInMinutes: 10
 # If you do not want any canned responses, set this to just {}
 # PlaceholderAPI placeholders are supported for the values
 #
-DiscordCannedResponses: {"!ip": "yourserveripchange.me", "!site": "http://yoursiteurl.net"}
+DiscordCannedResponses: {"!ip": "mc.stonelegion.com", "!site": "http://stonelegion.com"}
 
 # Minecraft to Discord account linking
 # These are the config options pertaining to how linking a Minecraft account to a Discord account functions
