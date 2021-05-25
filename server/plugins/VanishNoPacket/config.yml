@@ -3,10 +3,10 @@ inform-player: false
 encoding: UTF-8
 hooks:
   essentials: true
-  spoutcraft: true
+  spoutcraft: false
 permtest: false
 updates: {}
-checkupdates: true
+checkupdates: false
 effects:
   lightning:
     count: 30
