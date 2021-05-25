@@ -16,7 +16,7 @@ bypass-list-uuids: []
 fill-memory-tolerance: 500
 bypass-list: []
 worlds:
-  World:
+  world:
     x: 0.0
     z: 0.0
     radiusX: 8000
