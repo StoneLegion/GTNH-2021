@@ -3,7 +3,7 @@ inform-player: false
 encoding: UTF-8
 prism:
   debug: false
-  allow-metrics: true
+  allow-metrics: false
   database:
     max-pool-connections: 20
     pool-initial-size: 10
@@ -97,15 +97,15 @@ prism:
     bonemeal-use: true
     container-access: true
     cake-eat: true
-    craft-item: false
+    craft-item: true
     creeper-explode: true
     crop-trample: true
     dragon-eat: true
-    enchant-item: false
+    enchant-item: true
     enderman-pickup: true
     enderman-place: true
     entity-break: true
-    entity-dye: false
+    entity-dye: true
     entity-explode: true
     entity-follow: true
     entity-form: true
@@ -115,7 +115,7 @@ prism:
     entity-spawn: true
     entity-unleash: true
     fireball: true
-    fire-spread: false
+    fire-spread: true
     firework-launch: true
     hangingitem-break: true
     hangingitem-place: true
@@ -126,19 +126,19 @@ prism:
     item-rotate: true
     lava-break: true
     lava-bucket: true
-    lava-flow: false
+    lava-flow: true
     lava-ignite: true
     leaf-decay: true
     lighter: true
     lightning: true
     mushroom-grow: true
-    player-chat: false
-    player-command: false
+    player-chat: true
+    player-command: true
     player-death: true
-    player-join: false
+    player-join: true
     player-kill: true
-    player-quit: false
-    player-teleport: false
+    player-quit: true
+    player-teleport: true
     potion-splash: true
     sheep-eat: true
     sign-change: true
@@ -152,15 +152,15 @@ prism:
     vehicle-place: true
     water-break: true
     water-bucket: true
-    water-flow: false
-    world-edit: false
-    xp-pickup: false
+    water-flow: true
+    world-edit: true
+    xp-pickup: true
     api:
       enabled: true
       allowed-plugins:
       - DarkMythos
       - PrismApiDemo
-  track-player-ip-on-join: false
+  track-player-ip-on-join: true
   track-hopper-item-events: false
   do-not-track:
     commands:
@@ -171,7 +171,7 @@ prism:
     - register
     - unregister
   alerts:
-    alert-staff-to-applied-process: true
+    alert-staff-to-applied-process: f
     alert-player-about-self: true
     ores:
       enabled: true
