@@ -35,24 +35,24 @@
 Default:
   Description:
   - |-
-    &aA Minecraft Server.
-    &7Now with [&a&lPvP&7], [&a&lMinigames&7], and much more!
+    &aGTNH Ver: 2.1.0.7a &7|  &eHello, &l%player%!
+    &dDedicated, 24/7, Discord, &bJune 2021 Launch&e!
   - |-
-    &aA Minecraft Server.
-    &eWe have updated our server to &lMinecraft 1.8&e!
+    &aGTNH Ver: 2.1.0.7a &7|  &eHello, &l%player%!
+    &dDedicated, 24/7, Discord, &bJune 2021 Launch&e!
   Players:
     Hover:
     - |-
-      &aWelcome to &lA Minecraft Server&a!
+      &aWelcome back, &l%player%&a!
       &aCurrently &e&l%online% &aplayers are playing on our server!
 Personalized:
   Description:
   - |-
-    &aA Minecraft Network. &7|  &eHello, &l%player%!
-    &7Now with [&a&lPvP&7], [&a&lMinigames&7], and much more!
+    &aGTNH Ver: 2.1.0.7a &7|  &eHello, &l%player%!
+    &dDedicated, 24/7, Discord, &bJune 2021 Launch&e!
   - |-
-    &aA Minecraft Network. &7|  &eHello, &l%player%!
-    &eWe have updated our server to &lMinecraft 1.8&e!
+    &aGTNH Ver: 2.1.0.7a &7|  &eHello, &l%player%!
+    &dDedicated, 24/7, Discord, &bJune 2021 Launch&e!
   Players:
     Hover:
     - |-
