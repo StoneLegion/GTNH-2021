@@ -1,0 +1,15 @@
+plugin-channel: world_info
+inform-player: false
+encoding: UTF-8
+hooks:
+  essentials: true
+  spoutcraft: true
+permtest: false
+updates: {}
+checkupdates: true
+effects:
+  lightning:
+    count: 30
+colornametags: true
+configVersionDoNotTouch:
+  SeriouslyThisWillEraseYourConfig: 5
