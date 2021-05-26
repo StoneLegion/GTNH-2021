@@ -25,7 +25,7 @@ GriefPrevention:
       AllClaimDays: 0
       AutomaticNatureRestoration:
         SurvivalWorlds: false
-    MaximumNumberOfClaimsPerPlayer: 0
+    MaximumNumberOfClaimsPerPlayer: 3
     CreationRequiresWorldGuardBuildPermission: true
     PortalGenerationRequiresPermission: false
     CommandsRequiringAccessTrust: /sethome
