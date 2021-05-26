@@ -1,0 +1,10 @@
+Protection:
+  GriefPreventionPlus: true
+  WorldGuard: true
+Whitelist: []
+Ranged: []
+AoE: []
+EnabledWorlds:
+- '*'
+ConfiscateTicks: 3
+ConfiscateLog: true
