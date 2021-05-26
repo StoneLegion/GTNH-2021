@@ -1,0 +1,98 @@
+GriefPrevention:
+  Claims:
+    DisabledWorlds: []
+    CreativeRulesWorlds: []
+    ClaimRequiredWorlds: []
+    PreventTheft: true
+    ProtectCreatures: true
+    PreventButtonsSwitches: true
+    LockWoodenDoors: false
+    LockTrapDoors: false
+    LockFenceGates: true
+    ProtectFires: false
+    ProtectHorses: true
+    InitialBlocks: 100
+    BlocksAccruedPerHour: 100
+    MaxAccruedBlocks: 80000
+    AbandonReturnRatio: 1.0
+    AutomaticNewPlayerClaimsRadius: 4
+    MinimumSize: 10
+    MaximumDepth: 0
+    InvestigationTool: STICK
+    ModificationTool: GOLD_SPADE
+    Expiration:
+      ChestClaimDays: 7
+      AllClaimDays: 0
+      AutomaticNatureRestoration:
+        SurvivalWorlds: false
+    MaximumNumberOfClaimsPerPlayer: 0
+    CreationRequiresWorldGuardBuildPermission: true
+    PortalGenerationRequiresPermission: false
+    CommandsRequiringAccessTrust: /sethome
+  SeaLevelOverrides:
+    world: -1
+    DIM228: -1
+    DIM227: -1
+    DIM112: -1
+    DIM60: -1
+    DIM173: -1
+    DIM56: -1
+    DIM55: -1
+    DIM100: -1
+    DIM7: -1
+    DIM-1: -1
+    DIM50: -1
+    DIM2: -1
+    DIM70: -1
+    DIM1: -1
+    DIM69: -1
+  PvP:
+    RulesEnabledInWorld:
+      world: false
+      DIM228: false
+      DIM227: false
+      DIM112: false
+      DIM60: false
+      DIM173: false
+      DIM56: false
+      DIM55: false
+      DIM100: false
+      DIM7: false
+      DIM-1: false
+      DIM50: false
+      DIM2: false
+      DIM70: false
+      DIM1: false
+      DIM69: false
+    ProtectPlayersInLandClaims:
+      PlayerOwnedClaims: true
+      AdministrativeClaims: true
+      AdministrativeSubdivisions: true
+  Economy:
+    ClaimBlocksPurchaseCost: 0.0
+    ClaimBlocksSellValue: 0.0
+  BlockLandClaimExplosions: true
+  BlockSurfaceCreeperExplosions: true
+  BlockSurfaceOtherExplosions: true
+  LimitSkyTrees: true
+  LimitTreeGrowth: false
+  LimitPistonsToLandClaims: true
+  FireSpreads: false
+  FireDestroys: false
+  EndermenMoveBlocks: false
+  SilverfishBreakBlocks: false
+  CreaturesTrampleCrops: false
+  HardModeZombiesBreakDoors: false
+  Database:
+    URL: ''
+    UserName: ''
+    Password: ''
+    useLocalYMLInstead: true
+  Mods:
+    BlockIdsRequiringAccessTrust: []
+    BlockIdsRequiringContainerTrust:
+    - 99999:*:Example - ID 99999, all data values.
+    BlockIdsExplodable: []
+    PlayersIgnoringAllClaims: []
+GriefPreventionPlus:
+  EntryTrustAllowByDefault: true
