@@ -6,22 +6,22 @@ GriefPrevention:
     PreventTheft: true
     ProtectCreatures: true
     PreventButtonsSwitches: true
-    LockWoodenDoors: false
-    LockTrapDoors: false
+    LockWoodenDoors: true
+    LockTrapDoors: true
     LockFenceGates: true
-    ProtectFires: false
+    ProtectFires: true
     ProtectHorses: true
-    InitialBlocks: 100
-    BlocksAccruedPerHour: 100
-    MaxAccruedBlocks: 80000
+    InitialBlocks: 0
+    BlocksAccruedPerHour: 256
+    MaxAccruedBlocks: 6400
     AbandonReturnRatio: 1.0
-    AutomaticNewPlayerClaimsRadius: 4
-    MinimumSize: 10
+    AutomaticNewPlayerClaimsRadius: -1
+    MinimumSize: 0
     MaximumDepth: 0
     InvestigationTool: STICK
-    ModificationTool: GOLD_SPADE
+    ModificationTool: WOODEN_SHOVEL
     Expiration:
-      ChestClaimDays: 7
+      ChestClaimDays: 0
       AllClaimDays: 0
       AutomaticNatureRestoration:
         SurvivalWorlds: false
@@ -91,7 +91,7 @@ GriefPrevention:
   Mods:
     BlockIdsRequiringAccessTrust: []
     BlockIdsRequiringContainerTrust:
-    - 99999:*:Example - ID 99999, all data values.
+    - CHEST:0:Chest
     BlockIdsExplodable: []
     PlayersIgnoringAllClaims: []
 GriefPreventionPlus:
