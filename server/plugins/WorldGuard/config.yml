@@ -32,7 +32,6 @@ regions:
         table-prefix: ''
     enable: true
     invincibility-removes-mobs: false
-    nether-portal-protection: false
     fake-player-build-override: true
     explosion-flags-block-entity-damage: true
     high-frequency-flags: false
@@ -87,7 +86,7 @@ ignition:
     block-tnt-block-damage: false
     block-lighter: false
 fire:
-    disable-lava-fire-spread: true
+    disable-lava-fire-spread: false
     disable-all-fire-spread: false
     disable-fire-spread-blocks: []
     lava-spread-blocks: []
@@ -123,7 +122,7 @@ player-damage:
     disable-contact-damage: false
     teleport-on-suffocation: false
     disable-void-damage: false
-    teleport-on-void-falling: false
+    teleport-on-void-falling: true
     disable-explosion-damage: false
     disable-mob-damage: false
     disable-death-messages: false
@@ -131,8 +130,8 @@ chest-protection:
     enable: false
     disable-off-check: false
 crops:
-    disable-creature-trampling: false
-    disable-player-trampling: false
+    disable-creature-trampling: true
+    disable-player-trampling: true
 weather:
     prevent-lightning-strike-blocks: []
     disable-lightning-strike-fire: false
