@@ -27,6 +27,8 @@ groups:
     - essentials.time
     - essentials.getpos
     - essentials.ping
+    - griefprevention.createclaims
+    - griefprevention.deleteclaims
   Supporter:
     options:
       prefix: '&5'
