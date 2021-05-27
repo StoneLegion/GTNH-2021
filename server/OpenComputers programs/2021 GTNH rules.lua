@@ -1,0 +1,38 @@
+local comp = require("component")
+local event = require("event")
+local gpu = comp.gpu
+local w, h = gpu.getResolution()
+
+while true do
+
+  gpu.setResolution(80, 24)
+  gpu.setBackground(0X000000)
+  gpu.setForeground(0X00CC00)
+  gpu.fill(1, 1, w, h, " ")
+  print("")
+  print("Welcome to Stone Legion's 2021 GTNH Server")
+  print("Launched June 2021")
+  print("")
+  print("Server rules:")
+  print("")
+  print("- Do NOT annoy players/admins.")
+  print("- Do NOT lag the server and make sure to disable any automation if you're away.")
+  print("- Do NOT cheat/exploit/steal/etc.")
+  print("- Do NOT be greedy with loot, world gen, server ticks, etc (the server world")
+  print("  and hardware are SHARED between all players).")
+  print("- Only the Overworld is backed up and other worlds may be wiped.")
+  print("  Nether WILL be wiped at the beginning of each month.")
+  print("- Properties left alone for over 30 days will be considered abandoned and may")
+  print("  be disabled/removed by admins. Do NOT ask admins to do this just because you")
+  print("  want that prime land someone made.")
+  print("- Do NOT build within 300 blocks of another player without permission.")
+  print("")
+  print("- Report any potential modpack issues on the GTNH Github.")
+  print("- For any other info, please visit us on our Discord.")
+  print("")
+  print("To start playing, go to the left or right teleport rooms.")
+  print("")
+  print("Have fun.")
+  os.sleep(30)
+
+end
