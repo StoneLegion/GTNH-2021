@@ -17,9 +17,9 @@ GregTech New Horizons Version: GTNH 2.1.0.7a
 - Battery & Hardisk Backup Systems.
 
 ## Summery of Changes:
-We changed very little most of was either to improve server performance or make the Overworld a nicer place.
-- World Gen Changes: Removed Natura Clouds & Red Wood Trees, & Removed AE2 Meteors (has a coin shop repeatable quest)
-- Grief Protection: Nerfed IC2 Nuke's & Reactor Explosions and added MyTown protection.
+We changed very little. Most was either to improve server performance or make the Overworld a nicer place.
+- World Gen Changes: Removed Natura Clouds, Natura Redwood Trees and AE2 Meteors (has a coin shop repeatable quest)
+- Grief Protection: Nerfed IC2 Nuke's & Reactor Explosions and added Grief Prevention protection.
 - Angry Mobs: Removed Kamikaze Passive Animals as its silly.
 - Removed Starting Questbook item (gives you another inventory slot and prevents nearly empty graves) - You can use the Hotkey ` to access questbook.
 - Removed Global (All Players) warp Effects causing global Rain, Storms, etc.
