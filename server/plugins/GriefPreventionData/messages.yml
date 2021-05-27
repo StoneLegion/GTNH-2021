@@ -96,32 +96,6 @@ Messages:
     Text: You can build here.  Save yourself.
   RescuePending:
     Text: If you stay put for 10 seconds, you'll be teleported out.  Please wait.
-  NonSiegeWorld:
-    Text: Siege is disabled here.
-  AlreadySieging:
-    Text: You're already involved in a siege.
-  NotSiegableThere:
-    Text: '{0} isn''t protected there.'
-    Notes: '0: defending player'
-  SiegeTooFarAway:
-    Text: You're too far away to siege.
-  NoSiegeDefenseless:
-    Text: That player is defenseless.  Go pick on somebody else.
-  AlreadyUnderSiegePlayer:
-    Text: '{0} is already under siege.  Join the party!'
-    Notes: '0: defending player'
-  AlreadyUnderSiegeArea:
-    Text: That area is already under siege.  Join the party!
-  NoSiegeAdminClaim:
-    Text: Siege is disabled in this area.
-  SiegeOnCooldown:
-    Text: You're still on siege cooldown for this defender or claim.  Find another victim.
-  SiegeAlert:
-    Text: You're under siege!  If you log out now, you will die.  You must defeat {0}, wait for him to give up, or escape.
-    Notes: '0: attacker name'
-  SiegeConfirmed:
-    Text: The siege has begun!  If you log out now, you will die.  You must defeat {0}, chase him away, or admit defeat and walk away.
-    Notes: '0: defender name'
   AbandonClaimMissing:
     Text: Stand in the claim you want to delete, or consider /AbandonAllClaims.
   NotYourClaim:
@@ -151,6 +125,8 @@ Messages:
     Text: access containers and animals
   AccessPermission:
     Text: use buttons and levers
+  EntryPermission:
+    Text: enter
   PermissionsPermission:
     Text: manage permissions
   LocationCurrentClaim:
@@ -159,8 +135,6 @@ Messages:
     Text: in all your claims
   PvPImmunityStart:
     Text: You're protected from attack by other players as long as your inventory is empty.
-  SiegeNoDrop:
-    Text: You can't give away items while involved in a siege.
   DonateItemsInstruction:
     Text: To give away the item(s) in your hand, left-click the chest again.
   ChestFull:
@@ -203,12 +177,6 @@ Messages:
     Text: Are you trapped in someone's land claim?  Try the /trapped command.
   PvPNoDrop:
     Text: You can't drop items while in PvP combat.
-  SiegeNoTeleport:
-    Text: You can't teleport out of a besieged area.
-  BesiegedNoTeleport:
-    Text: You can't teleport into a besieged area.
-  SiegeNoContainers:
-    Text: You can't access containers while involved in a siege.
   PvPNoContainers:
     Text: You can't access containers during PvP combat.
   PvPImmunityEnd:
@@ -228,8 +196,6 @@ Messages:
   BlockClaimed:
     Text: That block has been claimed by {0}.
     Notes: '0: claim owner'
-  SiegeNoShovel:
-    Text: You can't use your shovel tool while involved in a siege.
   RestoreNaturePlayerInChunk:
     Text: Unable to restore.  {0} is in that chunk.
     Notes: '0: nearby player'
@@ -279,35 +245,22 @@ Messages:
     Text: Your selected area overlaps an existing claim.
   CreateClaimSuccess:
     Text: Claim created!  Use /trust to share it with friends.
-  SiegeWinDoorsOpen:
-    Text: Congratulations!  Buttons and levers are temporarily unlocked (five minutes).
   RescueAbortedMoved:
     Text: You moved!  Rescue cancelled.
-  SiegeDoorsLockedEjection:
-    Text: Looting time is up!  Ejected from the claim.
-  NoModifyDuringSiege:
-    Text: Claims can't be modified while under siege.
   OnlyOwnersModifyClaims:
     Text: Only {0} can modify this claim.
     Notes: '0: owner name'
-  NoBuildUnderSiege:
-    Text: This claim is under siege by {0}.  No one can build here.
-    Notes: '0: attacker name'
   NoBuildPvP:
     Text: You can't build in claims during PvP combat.
   NoBuildPermission:
     Text: You don't have {0}'s permission to build here.
     Notes: '0: owner name'
-  NonSiegeMaterial:
-    Text: That material is too tough to break.
-  NoOwnerBuildUnderSiege:
-    Text: You can't make changes while under siege.
   NoAccessPermission:
     Text: You don't have {0}'s permission to use that.
     Notes: '0: owner name.  access permission controls buttons, levers, and beds'
-  NoContainersSiege:
-    Text: This claim is under siege by {0}.  No one can access containers here right now.
-    Notes: '0: attacker name'
+  NoEntryPermission:
+    Text: You don't have {0}'s permission to enter this claim.
+    Notes: '0: owner name'
   NoContainersPermission:
     Text: You don't have {0}'s permission to use that.
     Notes: '0: owner''s name.  containers also include crafting blocks'
@@ -419,15 +372,8 @@ Messages:
     Notes: '0: Number of claims found.'
   NoChatUntilMove:
     Text: Sorry, but you have to move a little more before you can chat.  We get lots of spam bots here.  :)
-  SiegeImmune:
-    Text: That player is immune to /siege.
   SetClaimBlocksSuccess:
     Text: Updated accrued claim blocks.
-  EntryPermission:
-    Text: enter
-  NoEntryPermission:
-    Text: You don't have {0}'s permission to enter this claim.
-    Notes: '0: owner name'
   AdjustBlocksAllSuccess:
     Text: Adjusted all online players' bonus claim blocks by {0}.
     Notes: '0: adjustment amount'

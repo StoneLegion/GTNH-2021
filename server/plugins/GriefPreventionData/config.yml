@@ -44,37 +44,8 @@ GriefPrevention:
     DIM50: -1
     DIM2: -1
     DIM70: -1
+    DIM1: -1
     DIM69: -1
-    DIM30: -1
-    DIM32: -1
-    DIM81: -1
-    DIM82: -1
-    DIM31: -1
-    DIM42: -1
-    DIM83: -1
-    DIM33: -1
-    DIM25: -1
-    DIM29: -1
-    DIM37: -1
-    DIM49: -1
-    DIM64: -1
-    DIM85: -1
-    DIM84: -1
-    DIM39: -1
-    DIM45: -1
-    DIM40: -1
-    DIM41: -1
-    DIM35: -1
-    DIM43: -1
-    DIM36: -1
-    DIM86: -1
-    DIM28: -1
-    DIM46: -1
-    DIM38: -1
-    DIM47: -1
-    DIM63: -1
-    DIM44: -1
-    DIM48: -1
   PvP:
     RulesEnabledInWorld:
       world: false
@@ -91,37 +62,8 @@ GriefPrevention:
       DIM50: false
       DIM2: false
       DIM70: false
+      DIM1: false
       DIM69: false
-      DIM30: false
-      DIM32: false
-      DIM81: false
-      DIM82: false
-      DIM31: false
-      DIM42: false
-      DIM83: false
-      DIM33: false
-      DIM25: false
-      DIM29: false
-      DIM37: false
-      DIM49: false
-      DIM64: false
-      DIM85: false
-      DIM84: false
-      DIM39: false
-      DIM45: false
-      DIM40: false
-      DIM41: false
-      DIM35: false
-      DIM43: false
-      DIM36: false
-      DIM86: false
-      DIM28: false
-      DIM46: false
-      DIM38: false
-      DIM47: false
-      DIM63: false
-      DIM44: false
-      DIM48: false
     ProtectPlayersInLandClaims:
       PlayerOwnedClaims: true
       AdministrativeClaims: true
