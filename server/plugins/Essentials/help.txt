@@ -1,4 +1,4 @@
-§eWelcome {PLAYER}§e!
+§eHello {PLAYER}§e, Welcome to Help!
 §bServer Commands:§a http://bit.ly/SL-Cmd
 §bLand Claim Guide/Commands:§a http://bit.ly/SL-Land
 §bDiscord Info:§a http://discord.gg/kBTabCX
