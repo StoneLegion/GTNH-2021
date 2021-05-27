@@ -2,6 +2,6 @@
 §bServer Commands:§a http://bit.ly/SL-Cmd
 §bLand Claim Guide/Commands:§a http://bit.ly/SL-Land
 §bDiscord Info:§a http://discord.gg/kBTabCX
-§bBug Reports:§a http://bit.ly/SL-Bugs
+§bBug Reports / Suggestions:§a http://bit.ly/SL-Bugs
 §dPlease Vote Daily:§e Coming Soon!
 §aServer Info: §6{TIME}, {DATE}

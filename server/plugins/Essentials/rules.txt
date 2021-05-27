@@ -2,3 +2,5 @@
 §dFor The Latest Rules Please Check on Discord!
 §dPinned Messages in §e#minecraft§d Channel!
 §bDiscord Info:§a http://discord.gg/kBTabCX
+
+§bBug Reports / Suggestions:§a http://bit.ly/SL-Bugs
