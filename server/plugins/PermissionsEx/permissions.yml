@@ -27,6 +27,7 @@ groups:
     - essentials.time
     - essentials.getpos
     - essentials.ping
+    - essentials.rules
     - griefprevention.createclaims
     - griefprevention.deleteclaims
   Supporter:
