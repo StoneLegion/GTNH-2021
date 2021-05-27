@@ -21,7 +21,6 @@ groups:
     - -bukkit.command.plugins
     - -bukkit.command.version
     - -essentials.afk.auto
-    - ftb.utils.mod.cmd.cmdlmplayersettings
     - essentials.help
     - essentials.suicide
     - essentials.time
