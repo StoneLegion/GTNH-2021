@@ -1,7 +1,9 @@
 Protection:
   GriefPreventionPlus: true
   WorldGuard: true
-Whitelist: []
+Whitelist:
+- 'OPENBLOCKS_HANGGLIDER:'
+- 'OPENBLOCKS_GRAVE:'
 Ranged: []
 AoE: []
 EnabledWorlds:
