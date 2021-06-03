@@ -1,2 +1,73 @@
 This is not meant to add or remove and or modify quests rewards, etc. This is just to display our info on quests that normally are info placeholders for server admins and people playing single player. 
 
+## Your First Night:
+
+Your first task will be to find food, and a shelter for the night. The nights will be cruel, as this pack has hardcore darkness. It probably would be a good idea to collect some food now...
+
+§lNote: You don't need to keep this book, you can use tilde to open quests without the book.§r
+
+Welcome to the StoneLegion.com Server! If you like to know more info about our server, rules, etc type in §4/help§r and all the links are clickable. You can also just go directly to §S§2StoneLegion.com§r for more information! 
+
+
+§3Hopefully you didn't get munched by a monster while reading this.
+
+## Mushroom Biomes? Why Are There So Many?
+"Server Rules!"
+
+Welcome to our Server Rules.
+Last Updated 06/02/2021
+
+- Do NOT annoy players/admins.
+- Do NOT lag the server and make sure to disable any automation if you're away.
+- Do NOT cheat/exploit/steal/etc.
+- Do NOT be greedy with loot, world gen, server ticks, etc (the server world and hardware are SHARED between all players)
+- Only the Overworld is backed up and other worlds may be wiped. Nether WILL be wiped at the beginning of each month.
+- Properties left alone for over 30 days will be considered abandoned and may be disabled/removed by admins. Do NOT ask admins to do this just because you want that prime land someone made.
+- Do NOT build within 300 blocks of another player without permission.
+- Report any potential Bugs / Issues on our Github /help for link.
+- For any other info, please visit us on our Discord /help for link.
+
+Please remember this is a shared server with other players. Most of our core members who play on our servers take their time and don't rush into the high tiers and make others end up suffering from your abuse of resources. Spend more time building nice bases, structures, rail system, etc. We are a Community Server!
+
+
+
+## Better Questing?
+"Basic Tips!"
+
+Welcome to the Stone Legion's FAQ's Page.
+Last Updated 06/02/2021
+
+- Basic Pam's Food's 
+
+## Backup Your Stuff...
+"Help Build a Railroad System!
+
+Did you know Stone Legion formally known as Godcraft had the biggest Vanilla Rail System in Minecraft for the longest time?
+
+We love Railroads and yes there is so many "Cheaty" methods of transportation in GTNH. That being said it does not mean we have to use them and it also does not mean we can't have fun creating community based projects like a GTNH Railcraft System.
+
+We hope people will consider making Nice Paths, Bridges, and even in the futue Railroads to other players and help connect our community / server. 
+
+How awesome would it be if we could show the GTNH Community the fun and cool ways of Railcraft and a massive system around the Server. 
+
+This is part of why were are consider a more slower community. We don't Rush not Max Tier's, etc. Instead we take our time and we attempt to make a more community and interactive server. 
+
+As time goes on and our community grows, we can do community video's and tours around the server.
+
+So Consider being part of the community and work on fun projects to welcome new players and keep old players engaged! 
+
+
+## Loading the Chunks
+
+This pack & Server uses Anchor from Railcraft to keep chunks loaded. We use exclusively use Chunkloader Coin's from NEI.
+
+Please remember this is a shared server and worlds. Don't be spamming chunk loaders all over the place and pick them up when you don't need to use them anymore. Please use mostly passive anchors when possible.
+
+One the big reasons to use Passive Anchors is because when your base has a bug / crash to the server and keeps causing use a loop crash effecting all the players we might find the fasted sollution is to remove said Chunks effecting the server rather then forcing all the players downtime. 
+
+So remember play fair and play slow!
+
+## All Alone in the Night
+
+- This is the one about using /bq_admin so we can replace this with something as well?
+
