@@ -1,15 +1,14 @@
 This is not meant to add or remove and or modify quests rewards, etc. This is just to display our info on quests that normally are info placeholders for server admins and people playing single player. 
 
+
 ## Your First Night:
 
-Your first task will be to find food, and a shelter for the night. The nights will be cruel, as this pack has hardcore darkness. It probably would be a good idea to collect some food now...
-
-§lNote: You don't need to keep this book, you can use tilde to open quests without the book.§r
+We recommend that you don't leave the safety of spawn or the 4k4k bunker anytime other than early morning as that will give you the most time to collect the dirt, logs and gravel for the first 2 quests giving you a torch and access to basic tools. If you don't run/jump much before you create a farm, then you shouldn't need to hunt any mobs for food. 
 
 Welcome to the StoneLegion.com Server! If you like to know more info about our server, rules, etc type in §4/help§r and all the links are clickable. You can also just go directly to §S§2StoneLegion.com§r for more information! 
 
-
 §3Hopefully you didn't get munched by a monster while reading this.
+
 
 ## Mushroom Biomes? Why Are There So Many?
 "Server Rules!"
@@ -30,14 +29,13 @@ Last Updated 06/02/2021
 Please remember this is a shared server with other players. Most of our core members who play on our servers take their time and don't rush into the high tiers and make others end up suffering from your abuse of resources. Spend more time building nice bases, structures, rail system, etc. We are a Community Server!
 
 
-
 ## Better Questing?
 "Basic Tips!"
 
 Welcome to the Stone Legion's FAQ's Page.
 Last Updated 06/02/2021
 
-- Basic Pam's Food's 
+If eating base Harvestcraft crops (ones gotten from gardens) then look at the sky while eating to actually eat it.
 
 ## Backup Your Stuff...
 "Help Build a Railroad System!
@@ -47,6 +45,8 @@ Did you know Stone Legion formally known as Godcraft had the biggest Vanilla Rai
 We love Railroads and yes there is so many "Cheaty" methods of transportation in GTNH. That being said it does not mean we have to use them and it also does not mean we can't have fun creating community based projects like a GTNH Railcraft System.
 
 We hope people will consider making Nice Paths, Bridges, and even in the futue Railroads to other players and help connect our community / server. 
+
+Try to build bridges with at least 2 air blocks above water.
 
 How awesome would it be if we could show the GTNH Community the fun and cool ways of Railcraft and a massive system around the Server. 
 
