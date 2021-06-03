@@ -55,7 +55,10 @@ Please remember this is a shared server with other players. Most of our core mem
 Welcome to the Stone Legion's FAQ's Page.
 Last Updated 06/02/2021
 
-If eating base Harvestcraft crops (ones gotten from gardens) then look at the sky while eating to actually eat it.
+- If eating base Harvestcraft crops (ones gotten from gardens) then look at the sky while eating to actually eat it.
+- Rogue Dungeons, Loot Games, AE2 Meteors & Natura Redwood Tree's are Disabled to keep the Surface looking nicer for the longevity of the server.
+- You can Purchase AE2 Skystone via the Coin Shop later on.
+- Most Commands and Land Claim info is found via the /help command.
 
 
 
