@@ -1,6 +1,12 @@
 This is not meant to add or remove and or modify quests rewards, etc. This is just to display our info on quests that normally are info placeholders for server admins and people playing single player. 
 
 
+
+
+
+
+
+
 ## Your First Night:
 
 We recommend that you don't leave the safety of spawn or the 4k4k bunker anytime other than early morning as that will give you the most time to collect the dirt, logs and gravel for the first 2 quests giving you a torch and access to basic tools. If you don't run/jump much before you create a farm, then you shouldn't need to hunt any mobs for food. 
@@ -8,6 +14,13 @@ We recommend that you don't leave the safety of spawn or the 4k4k bunker anytime
 Welcome to the StoneLegion.com Server! If you like to know more info about our server, rules, etc type in §4/help§r and all the links are clickable. You can also just go directly to §S§2StoneLegion.com§r for more information! 
 
 §3Hopefully you didn't get munched by a monster while reading this.
+
+
+
+
+
+
+
 
 
 ## Mushroom Biomes? Why Are There So Many?
@@ -29,6 +42,13 @@ Last Updated 06/02/2021
 Please remember this is a shared server with other players. Most of our core members who play on our servers take their time and don't rush into the high tiers and make others end up suffering from your abuse of resources. Spend more time building nice bases, structures, rail system, etc. We are a Community Server!
 
 
+
+
+
+
+
+
+
 ## Better Questing?
 "Basic Tips!"
 
@@ -36,6 +56,15 @@ Welcome to the Stone Legion's FAQ's Page.
 Last Updated 06/02/2021
 
 If eating base Harvestcraft crops (ones gotten from gardens) then look at the sky while eating to actually eat it.
+
+
+
+
+
+
+
+
+
 
 ## Backup Your Stuff...
 "Help Build a Railroad System!"
@@ -57,6 +86,14 @@ As time goes on and our community grows, we can do community videos and tours ar
 So Consider being part of the community and work on fun projects to welcome new players and keep old players engaged! 
 
 
+
+
+
+
+
+
+
+
 ## Loading the Chunks
 
 This pack & Server uses Anchor from Railcraft to keep chunks loaded. We use exclusively use Chunkloader Coin's from NEI.
@@ -66,6 +103,14 @@ Please remember this is a shared server with shared worlds. Don't be spamming ch
 One the big reasons to use Passive Anchors is that if a chunk loaded base were to cause server lag/crash (its been known to happen) we can temporarily isolate those chunks so that others players can still enjoy playing while the issue is being worked on. Another good reason is so that players with automation (who disable their chunkloaders and automation) don't lag the server even though some don't play anymore.
 
 So remember play fair and play slow!
+
+
+
+
+
+
+
+
 
 ## All Alone in the Night
 
