@@ -40,7 +40,23 @@
 	    </if>
         </line>
         <line>
-            <str>Biome: $3{biome}</str>
+            <str>Biome: $3{biome}$f</str>
+        </line>
+        <line>
+            <str>Temp: $6</str>
+            <round>
+                <div>
+                    <sub>
+                        <var>temperature</var>
+                        <num>32</num>
+                    </sub>
+                    <num>1.8</num>
+                </div>
+                <num>0</num>
+            </round>
+            <str>$6°C $6</str>
+
+            <str> $f Humidity: $6{humidity}%</str>
         </line>
         <line>
             <str>Entities: $2{entitiesrendered}$f / $c{entitiestotal}$f</str>
@@ -54,8 +70,6 @@
             </max>
             <var>fps</var>
             <str>$f fps</str>
-        </line>
-        <line>
             <if>
                 <and>
                     <or>
@@ -92,7 +106,7 @@
                     </or>
                 </and>
                 <concat>
-                    <str>$aOre$f Chunk</str>
+                    <str> - $aOre$f Chunk</str>
                 </concat>
             </if>
         </line>
