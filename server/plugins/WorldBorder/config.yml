@@ -1,4 +1,4 @@
-cfg-version: 10
+cfg-version: 11
 message: '&cYou have reached the edge of this world.'
 round-border: false
 debug-mode: false
@@ -14,7 +14,8 @@ deny-enderpearl: true
 fill-autosave-frequency: 30
 bypass-list-uuids: []
 fill-memory-tolerance: 500
-bypass-list: []
+prevent-block-place: false
+prevent-mob-spawn: false
 worlds:
   world:
     x: 0.0
