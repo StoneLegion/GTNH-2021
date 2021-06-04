@@ -4,10 +4,10 @@
 change-nametag-prefix-suffix: true
 
 #prefix/suffix in tablist
-change-tablist-prefix-suffix: true
+change-tablist-prefix-suffix: false
 
 #header/footer
-enable-header-footer: true
+enable-header-footer: false
 
 header:
   - "&3&lServer name"
@@ -29,13 +29,9 @@ yellow-number-in-tablist: "%ping%"
 
 #literally what it says
 group-sorting-priority-list:
-  - owner
-  - admin
-  - mod
-  - helper
-  - builder
-  - premium
-  - player
+  - Administrator
+  - Moderator
+  - Supporter
   - default
 
 Groups:
@@ -82,7 +78,7 @@ classic-vanilla-belowname:
   number: "%health%"
   
   #text after number, must be same on all players
-  text: "Health"
+  text: "HP"
 
 #controlling the collision rule
 enable-collision: true
