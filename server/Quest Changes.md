@@ -53,12 +53,14 @@ Please remember this is a shared server with other players. Most of our core mem
 "Basic Tips!"
 
 Welcome to the Stone Legion's FAQ's Page.
-Last Updated 06/02/2021
+Last Updated 06/03/2021
 
 - If eating base Harvestcraft crops (ones gotten from gardens) then look at the sky while eating to actually eat it.
 - Rogue Dungeons, Loot Games, AE2 Meteors & Natura Redwood Tree's are Disabled to keep the Surface looking nicer for the longevity of the server.
 - You can Purchase AE2 Skystone via the Coin Shop later on.
 - Most Commands and Land Claim info is found via the /help command.
+- There is no Bed Voting on the server. Just protect your land and build wall and don't bug players to sleep.
+- The Only Chunk Loaders allowed are Railcraft and it's HIGHLY recommended you stick to the personal ones. 
 
 
 
@@ -117,5 +119,5 @@ So remember play fair and play slow!
 
 ## All Alone in the Night
 
-- This is the one about using /bq_admin so we can replace this with something as well?
+This is 100% a useless quest never meant for Multiplayer... Will come up with something later here to fill in!
 
