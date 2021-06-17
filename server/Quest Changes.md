@@ -53,8 +53,9 @@ Please remember this is a shared server with other players. Most of our core mem
 "Basic Tips!"
 
 Welcome to the Stone Legion's FAQ's Page.
-Last Updated 06/03/2021
+Last Updated 06/16/2021
 
+- There is a Strange bug With Tinkers Bronze Swords found in chests. Best to not use them as they can cause issues to the server.
 - If eating base Harvestcraft crops (ones gotten from gardens) then look at the sky while eating to actually eat it.
 - Rogue Dungeons, Loot Games, AE2 Meteors & Natura Redwood Tree's are Disabled to keep the Surface looking nicer for the longevity of the server.
 - You can Purchase AE2 Skystone via the Coin Shop later on.
