@@ -9,9 +9,11 @@ This is not meant to add or remove and or modify quests rewards, etc. This is ju
 
 ## Your First Night:
 
+Welcome to the StoneLegion.com Server! If you like to know more info about our server, rules, etc type in §4/help§r and all the links are clickable. You can also just go directly to §S§2StoneLegion.com§r for more information! 
+
 We recommend that you don't leave the safety of spawn or the 4k4k bunker anytime other than early morning as that will give you the most time to collect the dirt, logs and gravel for the first 2 quests giving you a torch and access to basic tools. If you don't run/jump much before you create a farm, then you shouldn't need to hunt any mobs for food. 
 
-Welcome to the StoneLegion.com Server! If you like to know more info about our server, rules, etc type in §4/help§r and all the links are clickable. You can also just go directly to §S§2StoneLegion.com§r for more information! 
+Please keep in mind that this server is meant to be a more community friendly / TPS friendly server. We are not Interested in players who are here to grind to max as fast as possible and brag about it in chat. Most of our core players play slow and steady and work on side projects, like the Rail System.
 
 §3Hopefully you didn't get munched by a monster while reading this.
 
@@ -27,11 +29,12 @@ Welcome to the StoneLegion.com Server! If you like to know more info about our s
 "Server Rules!"
 
 Welcome to our Server Rules.
-Last Updated 06/02/2021
+Last Updated 06/21/2021
 
 - Do NOT annoy players/admins.
 - Do NOT lag the server and make sure to disable any automation if you're away.
 - Do NOT cheat/exploit/steal/etc.
+- Do NOT use Banned Items & Blocks (They will say so via NEI).
 - Do NOT be greedy with loot, world gen, server ticks, etc (the server world and hardware are SHARED between all players)
 - Only the Overworld is backed up and other worlds may be wiped. Nether WILL be wiped at the beginning of each month.
 - Properties left alone for over 30 days will be considered abandoned and may be disabled/removed by admins. Do NOT ask admins to do this just because you want that prime land someone made.
@@ -53,7 +56,7 @@ Please remember this is a shared server with other players. Most of our core mem
 "Basic Tips!"
 
 Welcome to the Stone Legion's FAQ's Page.
-Last Updated 06/16/2021
+Last Updated 06/21/2021
 
 - There is a Strange bug With Tinkers Bronze Swords found in chests. Best to not use them as they can cause issues to the server.
 - If eating base Harvestcraft crops (ones gotten from gardens) then look at the sky while eating to actually eat it.
@@ -62,6 +65,7 @@ Last Updated 06/16/2021
 - Most Commands and Land Claim info is found via the /help command.
 - There is no Bed Voting on the server. Just protect your land and build wall and don't bug players to sleep.
 - The Only Chunk Loaders allowed are Railcraft and it's HIGHLY recommended you stick to the personal ones. 
+- Take your time,  build a nice looking base and don't rush the Pack. You will end up burning out,  hating people once you start lagging / crashing it and just overall have a bad time if you rush things. 
 
 
 
@@ -122,3 +126,11 @@ So remember play fair and play slow!
 
 This is 100% a useless quest never meant for Multiplayer... Will come up with something later here to fill in!
 
+
+
+
+## §1§lSO...TIRED...MUST...SLEEP...
+
+Sleepy time, and the end of the tutorial. Congratulations, you've built your first hideout, and you should have a steady supply of food by now. See you again in tier 0!
+
+Keep in Mind that there is not sleep voting on the server. This means you have to wait out the night and the best way to do this is make a base with walls and light it up!
