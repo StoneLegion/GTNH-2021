@@ -21,6 +21,7 @@ groups:
     - -bukkit.command.plugins
     - -bukkit.command.version
     - -essentials.afk.auto
+    - -betterchunkloader.list.others
     - essentials.help
     - essentials.suicide
     - essentials.time
@@ -29,6 +30,9 @@ groups:
     - essentials.rules
     - griefprevention.createclaims
     - griefprevention.deleteclaims
+    - squeek.spiceoflife.foodtracker.commands.commandfoodlist
+    - tab.sort.Default
+    - essentials.signs.warp.use
   Supporter:
     options:
       prefix: '&5'
@@ -39,6 +43,7 @@ groups:
     permissions:
     - essentials.near
     - essentials.joinfullserver
+    - tab.sort.Supporter
   Moderator:
     options:
       prefix: '&a'
@@ -62,6 +67,7 @@ groups:
     - minecraft.command.whitelist.*
     - bukkit.command.whitelist.*
     - essentials.helpop.receive
+    - tab.sort.Moderator
   Administrator:
     options:
       prefix: '&a'
@@ -94,13 +100,43 @@ groups:
     - essentials.near.*
     - com.sk89q.worldedit.*
     - com.sk89q.worldedit.forge.commandwrap.*
+    - sv.use
+    - sv.list
+    - sv.login
+    - sv.logout
+    - tab.sort.Administrator
+  Admin:
+    options:
+      prefix: '&4'
+      suffix: '&f'
+      weight: '1'
+    inheritance:
+    - Administrator
+    permissions:
+    - sv.see
+    - betterchunkloader.*
+    - tab.sort.Admin
+  SUP:
+    options:
+      prefix: '&a'
+      suffix: '&f'
+      weight: '1'
+    inheritance:
+    - Administrator
+    permissions:
+    - essentials.silentjoin
+    - essentials.silentquit
+    - essentials.vanish
+    - sv.see
 schema-version: 1
 users:
   88d1fcdc-0b18-442a-b78f-6fa25acabb97:
     group:
-    - Administrator
+    - Admin
     options:
       name: Kane_Hart
+    permissions:
+
   0d15294c-e292-49b3-9827-1e9e3bf36bd7:
     group:
     - Administrator
@@ -108,11 +144,21 @@ users:
       name: ElectroBot
   87f78184-3b3c-43ed-baf8-e934abea56f2:
     group:
-    - Administrator
+    - SUP
     options:
       name: Enderarcher
   d10f03c9-ef80-4823-8152-bef34c8db93f:
     group:
-    - Administrator
+    - SUP
     options:
       name: James_Bendis
+  6966815e-cb08-4357-8ed4-f317d65263d1:
+    group:
+    - Supporter
+    options:
+      name: Togeh
+  9684b201-9fb7-41e7-aa19-a842a00d3d97:
+    group:
+    - Supporter
+    options:
+      name: bennerkaj
