@@ -25,26 +25,23 @@ footer:
   - "&7Visit our webpage %animation:web%"
 
 #supports any numeric placeholder, set to "" to disable the feature
-yellow-number-in-tablist: "%ping%"
+yellow-number-in-tablist: ""
 
 #literally what it says
 group-sorting-priority-list:
+  - Admin
   - Administrator
   - Moderator
   - Supporter
   - default
 
 Groups:
-  Owner:
-    tabprefix: "&0&l[&a&lOwner&0&l] &a"
-    tagprefix: "&2&lOwner &a"
-  Admin:
-    tabprefix: "&0&l[&4&lAdmin&0&l] &1"
-    tagprefix: "%animation:admin_prefix%"
-  Player:
+  Adminz:
+  Administratorz:
+  Playerz:
     tabprefix: "&0&l[&7&lPlayer&0&l] &3"
     tagprefix: "&2&lPlayer &3"
-  example_group:
+  example_groupz:
     header:
       - "This is an example of per-group header/footer"
     footer:
@@ -175,7 +172,7 @@ disable-features-in-worlds:
     - disabledworld
 
 placeholderapi-refresh-intervals:
-  default-refresh-interval: 100
+  default-refresh-interval: 1000
   server:
     "%server_uptime%": 1000
     "%server_tps_1_colored%": 1000
@@ -211,20 +208,20 @@ per-world-playerlist:
       - bedwars
 
 #permission node is tab.sort.<permission group from sorting list>
-sort-players-by-permissions: false
+sort-players-by-permissions: true
 
 #making tamed animals no longer copy nametag properties from their owner (prefix/suffix/visibility)
 #do not enable this if you're on paper, you'll feed the trolls even more
 fix-pet-names: false
 
 #taking primary group from permission plugin
-use-primary-group: true
+use-primary-group: false
 
 #if the option above is false, all groups are taken from permission plugin and the one higher in this list is used as primary
 primary-group-finding-list:
-  - Owner
   - Admin
-  - Helper
+  - Administrator
+  - Supporter
   - default
   
 #if none of the above fits your needs, you can enable this to give groups using tab.group.<group name from the list above> permission
