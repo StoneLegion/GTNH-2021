@@ -11,8 +11,8 @@
 #
 regions:
     bunker:
-        min: {x: -3968.0, y: 1.0, z: -4016.0}
-        max: {x: -3953.0, y: 255.0, z: -4001.0}
+        min: {x: -3953.0, y: 1.0, z: -4033.0}
+        max: {x: -3969.0, y: 255.0, z: -4049.0}
         members: {}
         flags: {other-explosion: deny, lava-fire: deny, use: allow, greeting: You have entered Bunker Protection.,
             interact: allow, lighter: deny, enderman-grief: deny, chest-access: allow,
@@ -22,8 +22,8 @@ regions:
         type: cuboid
         priority: 0
     bunker2:
-        min: {x: -4064.0, y: 1.0, z: 4000.0}
-        max: {x: -4049.0, y: 255.0, z: 4015.0}
+        min: {x: -3921.0, y: 1.0, z: 4128.0}
+        max: {x: -3937.0, y: 255.0, z: 4144.0}
         members: {}
         flags: {other-explosion: deny, lava-fire: deny, use: allow, greeting: You have entered Bunker Protection.,
             interact: allow, lighter: deny, enderman-grief: deny, chest-access: allow,
@@ -33,8 +33,8 @@ regions:
         type: cuboid
         priority: 0
     bunker4:
-        min: {x: 4000.0, y: 1.0, z: 4000.0}
-        max: {x: 4015.0, y: 255.0, z: 4015.0}
+        min: {x: 3856.0, y: 1.0, z: 3968.0}
+        max: {x: 3872.0, y: 255.0, z: 3952.0}
         members: {}
         flags: {other-explosion: deny, lava-fire: deny, use: allow, greeting: You have entered Bunker Protection.,
             interact: allow, lighter: deny, enderman-grief: deny, chest-access: allow,
@@ -44,8 +44,52 @@ regions:
         type: cuboid
         priority: 0
     bunker3:
-        min: {x: 3968.0, y: 1.0, z: -4048.0}
-        max: {x: 3983.0, y: 255.0, z: -4033.0}
+        min: {x: 3920.0, y: 1.0, z: -3920.0}
+        max: {x: 3937.0, y: 255.0, z: -3903.0}
+        members: {}
+        flags: {other-explosion: deny, lava-fire: deny, use: allow, greeting: You have entered Bunker Protection.,
+            interact: allow, lighter: deny, enderman-grief: deny, chest-access: allow,
+            mob-spawning: deny, fire-spread: deny, enderpearl: deny, creeper-explosion: deny,
+            tnt: deny, ghast-fireball: deny, farewell: You have left the Protection of Bunker.}
+        owners: {}
+        type: cuboid
+        priority: 0
+    spacebunker:
+        min: {x: 6015.0, y: 1.0, z: 6031.0}
+        max: {x: 5968.0, y: 255.0, z: 5984.0}
+        members: {}
+        flags: {other-explosion: deny, lava-fire: deny, use: allow, greeting: You have entered Bunker Protection.,
+            interact: allow, lighter: deny, enderman-grief: deny, chest-access: allow,
+            mob-spawning: deny, fire-spread: deny, enderpearl: deny, creeper-explosion: deny,
+            tnt: deny, ghast-fireball: deny, farewell: You have left the Protection of Bunker.}
+        owners: {}
+        type: cuboid
+        priority: 0
+    spacebunker2:
+        min: {x: 6000.0, y: 1.0, z: -6049.0}
+        max: {x: 6047.0, y: 255.0, z: -6096.0}
+        members: {}
+        flags: {other-explosion: deny, lava-fire: deny, use: allow, greeting: You have entered Bunker Protection.,
+            interact: allow, lighter: deny, enderman-grief: deny, chest-access: allow,
+            mob-spawning: deny, fire-spread: deny, enderpearl: deny, creeper-explosion: deny,
+            tnt: deny, ghast-fireball: deny, farewell: You have left the Protection of Bunker.}
+        owners: {}
+        type: cuboid
+        priority: 0
+    spacebunker3:
+        min: {x: -5856.0, y: 1.0, z: -6049.0}
+        max: {x: -5809.0, y: 255.0, z: -6096.0}
+        members: {}
+        flags: {other-explosion: deny, lava-fire: deny, use: allow, greeting: You have entered Bunker Protection.,
+            interact: allow, lighter: deny, enderman-grief: deny, chest-access: allow,
+            mob-spawning: deny, fire-spread: deny, enderpearl: deny, creeper-explosion: deny,
+            tnt: deny, ghast-fireball: deny, farewell: You have left the Protection of Bunker.}
+        owners: {}
+        type: cuboid
+        priority: 0
+    spacebunker4:
+        min: {x: -6160.0, y: 1.0, z: 6240.0}
+        max: {x: -6113.0, y: 255.0, z: 6287.0}
         members: {}
         flags: {other-explosion: deny, lava-fire: deny, use: allow, greeting: You have entered Bunker Protection.,
             interact: allow, lighter: deny, enderman-grief: deny, chest-access: allow,
