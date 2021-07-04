@@ -47,14 +47,14 @@ change-playerlist: false
 teleport-safety: true
 
 # The delay, in seconds, required between /home, /tp, etc.
-teleport-cooldown: 86400
+teleport-cooldown: 5
 
 # The delay, in seconds, before a user actually teleports.  If the user moves or gets attacked in this timeframe, the teleport never occurs.
-teleport-delay: 86400
+teleport-delay: 5
 
 # The delay, in seconds, a player can't be attacked by other players after they have been teleported by a command.
 # This will also prevent the player attacking other players.
-teleport-invulnerability: 4
+teleport-invulnerability: 0
 
 # The delay, in seconds, required between /heal or /feed attempts.
 heal-cooldown: 60
@@ -106,6 +106,7 @@ overridden-commands:
 disabled-commands:
 #  - nick
 #  - clear
+  - backup
 
 # These commands will be shown to players with socialSpy enabled.
 # You can add commands from other plugins you may want to track or
@@ -269,7 +270,7 @@ enabledSigns:
   #- trade
   #- free
   #- disposal
-  #- warp
+  - warp
   #- kit
   #- mail
   #- enchant
@@ -286,6 +287,7 @@ enabledSigns:
 # Lower numbers will reduce the possibility of lag, but may annoy players.
 sign-use-per-second: 4
 
+# Backup runs a batch/bash command while saving is disabled.
 # Backup runs a batch/bash command while saving is disabled.
 backup:
   # Interval in minutes.
@@ -360,7 +362,7 @@ death-messages: true
 
 # Should operators be able to join and part silently.
 # You can control this with permissions if it is enabled.
-allow-silent-join-quit: false
+allow-silent-join-quit: true
 
 # You can set a custom join message here, set to "none" to disable.
 # You may use color codes, use {USERNAME} the player's name or {PLAYER} for the player's displayname.
