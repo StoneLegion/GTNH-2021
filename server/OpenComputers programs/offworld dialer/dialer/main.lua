@@ -30,6 +30,11 @@ gates = require("gates")
 --icons = require("icons")
 perms = require("perms")
 
+-- prevent Hard interrupt (prevent cheating)
+process = require("process")
+process.info().data.signal = function(...)
+end
+
 tempTexts = {}
 -- schema: {text, x, y, foreColor, backColor, ticks}
 -- 'ticks' represent the number of frames/cycles before removing this text

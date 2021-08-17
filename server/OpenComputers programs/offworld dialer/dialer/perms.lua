@@ -7,50 +7,10 @@ function perms.getListPermittedPlanets(tier)
 	end
 	
 	if tier >= 1 then
-		table.insert(list, "Moon")
-	end
-	if tier >= 2 then
-		table.insert(list, "Mars")
-		table.insert(list, "Phobos")
-		table.insert(list, "Deimos")
-	end
-	if tier >= 3 then
-		table.insert(list, "Ceres")
-		table.insert(list, "Asteroids")
-		table.insert(list, "Callisto")
-		table.insert(list, "Ganymede")
-		table.insert(list, "Europa")
-		table.insert(list, "Ross128b")
-	end
-	if tier >= 4 then
-		table.insert(list, "Io")
-		table.insert(list, "Venus")
-		table.insert(list, "Mercury")
-	end
-	if tier >= 5 then
-		table.insert(list, "Oberon")
-		table.insert(list, "Miranda")
-		table.insert(list, "Titan")
-		table.insert(list, "Enceladus")
-		table.insert(list, "Ross128ba")
-	end
-	if tier >= 6 then
-		table.insert(list, "Triton")
-		table.insert(list, "Proteus")
-	end
-	if tier >= 7 then
-		table.insert(list, "Kuiper Belt")
-		table.insert(list, "Haumea")
-		table.insert(list, "Pluto")
-		table.insert(list, "Makemake")
-	end
-	if tier >= 8 then
-		table.insert(list, "A Centauri Bb")
-		table.insert(list, "Tau Ceti E")
-		table.insert(list, "Vega B")
-		table.insert(list, "Barnarda C")
-		table.insert(list, "Barnarda E")
-		table.insert(list, "Barnarda F")
+		table.insert(list, "OW North West")
+		table.insert(list, "OW North East")
+		table.insert(list, "OW South West")
+		table.insert(list, "OW South East")
 	end
 	
 	return list
@@ -110,7 +70,7 @@ function perms.registerUser(username, registration)
 	
 	pInterface.setPlayerName(username)
 	os.sleep(1.0)
-	local side = sides.south
+	local side = sides.west
 	local size = pInventory.getInventorySize(side)
 	if size > 36 then
 		size = 36
