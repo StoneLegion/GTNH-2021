@@ -244,7 +244,7 @@ while running do
 		remoteAddress = v3
 	end
 	
-	os.sleep(0.0)
+	os.sleep(0.1)
 end
 
 term.clear()
