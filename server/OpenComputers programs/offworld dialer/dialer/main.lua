@@ -13,7 +13,6 @@ local BUTTON_H = 1
 component = require("component")
 gpu = component.gpu
 stargate = component.stargate
-redstone = component.redstone
 pInterface = component.playerinterface
 pInventory = component.inventory_controller
 unicode = require("unicode")
@@ -67,14 +66,6 @@ function title()
     local bg = 0x82FFFF
     --border begin
     draw.rect(gpu, 1, 1, sw, 1, " ", 0x000000, bg)
-    --draw.rect(gpu, 1, h, sw, 1, " ", bg)
-    --draw.rect(gpu, 1, 1, 1, sh, " ", bg)
-    --draw.rect(gpu, w, 1, 1, sh, " ", bg)
-    
-    --draw.rect(gpu, 2, 1, 1, sh, " ", bg)
-    --draw.rect(gpu, w-1, 1, 1, sh, " ", bg)
-    --border end
-    
     draw.text(gpu, centerAlign(titleText), 1, titleText, 0x000000, bg)
 end
 
@@ -186,8 +177,6 @@ while running do
 		0xFFFFFF,
 		0x11DD11
 	)
-	--draw.text(gpu, 26, sh - 7, "Press the Z key to force disconnect the gate", 0xFF00FF, 0x000000)
-	
 	
 	-- GATE BUTTON RENDERING --
 	for i = 1, #gates["list"], 1 do
@@ -245,35 +234,8 @@ while running do
 		end
 	end
 	
-	-- FLASHING LIGHTS ENGAGED DURING DIALLING OR OPENING --
-	if state == "Dialling" or state == "Opening" or state == "Connected" then
-		redstone.setBundledOutput(sides.east, colors.white, 15)
-	else
-		redstone.setBundledOutput(sides.east, colors.white, 0)
-	end
-	
-	-- DESTINATION PREVIEW --
-	--local wPreview = 33
-	--local xPreview = sw - wPreview - 2
-	--draw.border(unicode, gpu, "Remote Preview", xPreview, 11, wPreview, 17, 0xDDDD00, 0x000000)
-	--draw.img(gpu, xPreview + 1, 12, icons[1]["data"])
-	--draw.img(gpu, xPreview + 1 + 16, 12, icons[2]["data"])
-	--draw.img(gpu, xPreview + 1, 12 + 8, icons[4]["data"])
-	--draw.img(gpu, xPreview + 1 + 16, 12 + 8, icons[1]["data"])
-	
 	-- EVENT HANDLING --
     local v1,v2,v3,v4,v5,v6 = event.pull(1.0)
-    --draw.text(gpu, 1, sh, "eventPulled="..tostring(v1)..", "..tostring(v2)..", "..tostring(v3)..", "..tostring(v4)..", "..tostring(v5)..", "..tostring(v6).."                                                               ", 0x00FFFF, 0x000000)
-    if v1 == "key_down" then
-        if v4 == keyboard.keys.x then
-            running = false
-        elseif v4 == keyboard.keys.z then
-			stargate.disconnect()
-		elseif v4 == keyboard.keys.r then
-			computer.shutdown(true)
-		end
-    end
-	
 	if v1 == "touch" then
 		handleButtons(v3, v4, v6)
 	end
