@@ -29,8 +29,9 @@ Please keep in mind that this server is meant to be a more community friendly / 
 "Server Rules!"
 
 Welcome to our Server Rules.
-Last Updated 06/21/2021
+Last Updated 12/07/2022
 
+- Always use §c/help§r and follow the links before askng questions!
 - Do NOT annoy players/admins.
 - Do NOT lag the server and make sure to disable any automation if you're away.
 - Do NOT cheat/exploit/steal/etc.
@@ -56,7 +57,7 @@ Please remember this is a shared server with other players. Most of our core mem
 "Basic Tips!"
 
 Welcome to the Stone Legion's FAQ's Page.
-Last Updated 06/21/2021
+Last Updated 12/07/2022
 
 - There is a Strange bug With Tinkers Bronze Swords found in chests. Best to not use them as they can cause issues to the server.
 - If eating base Harvestcraft crops (ones gotten from gardens) then look at the sky while eating to actually eat it.
@@ -133,4 +134,6 @@ This is 100% a useless quest never meant for Multiplayer... Will come up with so
 
 Sleepy time, and the end of the tutorial. Congratulations, you've built your first hideout, and you should have a steady supply of food by now. See you again in tier 0!
 
-Keep in Mind that there is not sleep voting on the server. This means you have to wait out the night and the best way to do this is make a base with walls and light it up!
+Please don't forget to join us on Discord!
+
+https://discord.gg/§ckBTabCX§r
