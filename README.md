@@ -31,5 +31,8 @@ We changed very little. Most was either to improve server performance or make th
 - roguelike-1.7.10-1.5.1.jar - Silly, More Laggy, Makes More Ugly World Gen
 
 ## Mods Added: 
-- AromaBackup-1.7.10-0.1.0.0.jar - Our Backup System
-- Aroma1997Core-1.7.10-1.0.2.16.jar - Provides Lib Files for Above Mod
+- custom-nether-scale-1.7.10-1.0.jar - Let's us have a 1:1 Nether / Overworld
+- DiscordIntegration-mc1.7.10-3.0.5.jar - Links Discord to In Game
+- ForgeAutoShutdown-1.0.7-1.7.10.jar - Our Early Morning Reboots.
+
+
