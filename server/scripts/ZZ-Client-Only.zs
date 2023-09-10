@@ -13,22 +13,6 @@ val BlankCast = <TConstruct:blankPattern:1>;
 val WireCutter = <ore:craftingToolWireCutter>;
 val File = <ore:craftingToolFile>;
 
-// --- Display Names ---
-
-<BiblioWoodsBoP:BiblioWoodcase:4>.displayName = "Hellbark Case";
-
-
-
-
-
-// --- Add Recipes ---
-
-
-
-
-// --- Forestry Stamps ---
-
-
 
 // --- Stamp 1n
 mods.forestry.Carpenter.addRecipe(10, <liquid:seedoil> * 100,
