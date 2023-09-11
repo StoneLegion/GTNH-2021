@@ -9,13 +9,15 @@ This is not meant to add or remove and or modify quests rewards, etc. This is ju
 
 ## Your First Night:
 
-Welcome to the StoneLegion.com Server! If you like to know more info about our server, rules, etc type in §4/help§r and all the links are clickable. You can also just go directly to §S§2StoneLegion.com§r for more information! 
+Welcome to the StoneLegion.com Server! If you like to know more info about our server, rules, etc type in §4/help§r and all the links are clickable. You can also just go directly to §S§2§1§n[url]StoneLegion.com[/url]§r§r for more information! 
 
 We recommend that you don't leave the safety of spawn or the 4k4k bunker anytime other than early morning as that will give you the most time to collect the dirt, logs and gravel for the first 2 quests giving you a torch and access to basic tools. If you don't run/jump much before you create a farm, then you shouldn't need to hunt any mobs for food. 
 
 Please keep in mind that this server is meant to be a more community friendly / TPS friendly server. We are not Interested in players who are here to grind to max as fast as possible and brag about it in chat. Most of our core players play slow and steady and work on side projects, like the Rail System.
 
 §3Hopefully you didn't get munched by a monster while reading this.
+
+§1§n[url]https://discord.gg/§ckBTabCX[/url]§r
 
 
 
@@ -29,7 +31,7 @@ Please keep in mind that this server is meant to be a more community friendly / 
 "Server Rules!"
 
 Welcome to our Server Rules.
-Last Updated 12/07/2022
+Last Updated 09/12/2023
 
 - Always use §c/help§r and follow the links before askng questions!
 - Do NOT annoy players/admins.
@@ -45,6 +47,8 @@ Last Updated 12/07/2022
 
 Please remember this is a shared server with other players. Most of our core members who play on our servers take their time and don't rush into the high tiers and make others end up suffering from your abuse of resources. Spend more time building nice bases, structures, rail system, etc. We are a Community Server!
 
+§1§n[url]https://discord.gg/§ckBTabCX[/url]§r
+
 
 
 
@@ -57,7 +61,7 @@ Please remember this is a shared server with other players. Most of our core mem
 "Basic Tips!"
 
 Welcome to the Stone Legion's FAQ's Page.
-Last Updated 12/07/2022
+Last Updated 09/12/2023
 
 - There is a Strange bug With Tinkers Bronze Swords found in chests. Best to not use them as they can cause issues to the server.
 - If eating base Harvestcraft crops (ones gotten from gardens) then look at the sky while eating to actually eat it.
@@ -67,6 +71,8 @@ Last Updated 12/07/2022
 - There is no Bed Voting on the server. Just protect your land and build wall and don't bug players to sleep.
 - The Only Chunk Loaders allowed are Railcraft and it's HIGHLY recommended you stick to the personal ones. 
 - Take your time,  build a nice looking base and don't rush the Pack. You will end up burning out,  hating people once you start lagging / crashing it and just overall have a bad time if you rush things. 
+
+§1§n[url]https://discord.gg/§ckBTabCX[/url]§r
 
 
 
@@ -96,6 +102,8 @@ As time goes on and our community grows, we can do community videos and tours ar
 
 So Consider being part of the community and work on fun projects to welcome new players and keep old players engaged! 
 
+§1§n[url]https://discord.gg/§ckBTabCX[/url]§r
+
 
 
 
@@ -115,6 +123,8 @@ One the big reasons to use Passive Anchors is that if a chunk loaded base were t
 
 So remember play fair and play slow!
 
+§1§n[url]https://discord.gg/§ckBTabCX[/url]§r
+
 
 
 
@@ -125,7 +135,11 @@ So remember play fair and play slow!
 
 ## All Alone in the Night
 
-This is 100% a useless quest never meant for Multiplayer... Will come up with something later here to fill in!
+Did you know you can improve your health by joining our Discord?
+
+§1§n[url]https://discord.gg/§ckBTabCX[/url]§r
+
+§oInformation Above may not be factual and can't be used in the court of law.
 
 
 
@@ -136,4 +150,4 @@ Sleepy time, and the end of the tutorial. Congratulations, you've built your fir
 
 Please don't forget to join us on Discord!
 
-https://discord.gg/§ckBTabCX§r
+§1§n[url]https://discord.gg/§ckBTabCX[/url]§r§r
