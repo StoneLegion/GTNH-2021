@@ -11,7 +11,7 @@ This is not meant to add or remove and or modify quests rewards, etc. This is ju
 
 Welcome to the StoneLegion.com Server! If you like to know more info about our server, rules, etc type in §4/help§r and all the links are clickable. You can also just go directly to §S§2§1§n[url]StoneLegion.com[/url]§r§r for more information! 
 
-We recommend that you don't leave the safety of spawn or the 4k4k bunker anytime other than early morning as that will give you the most time to collect the dirt, logs and gravel for the first 2 quests giving you a torch and access to basic tools. If you don't run/jump much before you create a farm, then you shouldn't need to hunt any mobs for food. 
+We recommend that you don't leave the safety of spawn or the 13k-13k bunker anytime other than early morning as that will give you the most time to collect the dirt, logs and gravel for the first 2 quests giving you a torch and access to basic tools. If you don't run/jump much before you create a farm, then you shouldn't need to hunt any mobs for food. 
 
 Please keep in mind that this server is meant to be a more community friendly / TPS friendly server. We are not Interested in players who are here to grind to max as fast as possible and brag about it in chat. Most of our core players play slow and steady and work on side projects, like the Rail System.
 
@@ -41,7 +41,7 @@ Last Updated 09/12/2023
 - Do NOT be greedy with loot, world gen, server ticks, etc (the server world and hardware are SHARED between all players)
 - Only the Overworld is backed up and other worlds may be wiped. Nether WILL be wiped at the beginning of each month.
 - Properties left alone for over 30 days will be considered abandoned and may be disabled/removed by admins. Do NOT ask admins to do this just because you want that prime land someone made.
-- Do NOT build within 300 blocks of another player without permission.
+- Do NOT build within 400 blocks of another player without permission.
 - Report any potential Bugs / Issues on our Github /help for link.
 - For any other info, please visit us on our Discord /help for link.
 
