@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§1§lMushroom Biomes? Why Are There So Many?",
+      "name:8": "Server Rules!",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "The GNTH pack is made for the Realistic World Generator (RWG).\n \nIf your setup uses the vanilla-biomes worldgen, you will get huge Mushroom biomes over the map. If you have this problem, please generate a new world with the RWG. \n\nIf you met this problem on a server, put \"level-type\u003drwg\" into the server.properties file and generate a new world."
+      "desc:8": "Welcome to our Server Rules.\nLast Updated 09/25/2023\n\n- Always use §c/help§r and follow the links before askng questions!\n- Do NOT annoy players/admins.\n- Do NOT lag the server and make sure to disable any automation if you're away.\n- Do NOT cheat/exploit/steal/etc.\n- Do NOT use Banned Items & Blocks (They will say so via NEI).\n- Do NOT be greedy with loot, world gen, server ticks, etc (the server world and hardware are SHARED between all players)\n- Only the Overworld is backed up and other worlds may be wiped. Nether WILL be wiped at the beginning of each month.\n- Properties left alone for over 30 days will be considered abandoned and may be disabled/removed by admins. Do NOT ask admins to do this just because you want that prime land someone made.\n- Do NOT Build within 500 blocks of another player without permission.\n- Do NOT Build within 1000 Blocks of a bunker.\n- Report any potential Bugs / Issues on our Github /help for link.\n- For any other info, please visit us on our Discord /help for link.\n\nPlease remember this is a shared server with other players. Most of our core members who play on our servers take their time and don't rush into the high tiers and make others end up suffering from your abuse of resources. Spend more time building nice bases, structures, rail system, etc. We are a Community Server!\n\n\n\n§c[url]https://discord.gg/kBTabCX[/url]"
     }
   },
   "tasks:9": {

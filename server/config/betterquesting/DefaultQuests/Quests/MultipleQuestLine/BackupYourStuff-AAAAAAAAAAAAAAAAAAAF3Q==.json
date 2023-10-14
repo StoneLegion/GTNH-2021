@@ -26,12 +26,12 @@
       "globalShare:1": 1,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "§1§lBackup Your Stuff...",
+      "name:8": "Help Build a Railroad System!",
       "isGlobal:1": 0,
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "The mod AromaBackup (AB) is included in the pack to backup your world. \nYou can adjust save path, frequency, and the number of backups to keep in its settings at \u0027config\\aroma1997\u0027. \nYou can also use another mod like FTB Utilities, or even an external program. \nDon\u0027t use several backup mods at once - it will just waste your CPU power and storage space.\n\nIf you need to restore from a backup, the ones from AB are found in the backups folder in the instance directory, not the world save directory.\n\nRemember that the mods JourneyMap and Thaumcraft Node Tracker store information outside of what most solutions back up, so please backup your journeymap and tcnodetracker folders yourself. \n\nThe Thaumcraft data is a little buggy, losing scanned aspect data and Thaumonomicon data, so consider backing it up as well. The file is at \u0027saves\\\u003cworldname\u003e\\playerdata\\\u003cnameofplayer\u003e.thaum\u0027.\n\nIf you move to another drive or computer, don\u0027t forget to migrate all the backed up files, not just the world folder."
+      "desc:8": "Did you know Stone Legion formally known as Godcraft had the biggest Vanilla Rail System in Minecraft for the longest time?\n\nWe love Railroads and yes there are many \"Cheaty\" methods of transportation in GTNH. That being said it does not mean we block them or force you to use specific forms of transportation. We can have fun creating community based projects like a GTNH Railcraft System.\n\nWe hope people will consider making nice Paths, Bridges, community farms and even in the futue Railroads to other players and help connect our community / server. \n\nTry to build bridges with at least 2 air blocks above water.\n\nHow awesome would it be if we could show the GTNH Community the fun and cool ways of Railcraft and a massive system around the Server. \n\nThis is part of why were are consider a more slower community. We don't Rush not Max Tier's, etc. Instead we take our time and we attempt to make a more community focused and interactive server. \n\nAs time goes on and our community grows, we can do community videos and tours around the server.\n\nSo Consider being part of the community and work on fun projects to welcome new players and keep old players engaged! \n\n\n§c[url]https://discord.gg/kBTabCX[/url]"
     }
   },
   "tasks:9": {
