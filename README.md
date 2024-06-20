@@ -25,14 +25,19 @@ We changed very little. Most was either to improve server performance or make th
 - Removed Global (All Players) warp Effects causing global Rain, Storms, etc.
 - Removed LootGames & Rogue Dungeons - Pure Spam, Lag, and Beyond Ugly on the World.
 
+## Mods Replaced:
+notenoughIDs-2.0.3.jar with notenoughIDs-2.0.3-thermos.jar - Fixes making all crucible worlds ocean lol
 
 ## Mods Removed:
 - LootGames-1.7.10-1.0.20.jar - Silly, Laggy, Makes Ugly World Gen
 - roguelike-1.7.10-1.5.1.jar - Silly, More Laggy, Makes More Ugly World Gen
+- ServerUtilities-2.0.38 - We have our own Protection System.. Only took them like 8 years to add this though...
+- archaicfix-0.7.2.jar - Prevents Crucible From Launching. 
 
 ## Mods Added: 
 - custom-nether-scale-1.7.10-1.0.jar - Let's us have a 1:1 Nether / Overworld
 - DiscordIntegration-mc1.7.10-3.0.5.jar - Links Discord to In Game
 - ForgeAutoShutdown-1.0.7-1.7.10.jar - Our Early Morning Reboots.
+- gtnh-web-map-0.3.28.jar - Dynmap for admins to spy on players!
 
 
